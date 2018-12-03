@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Q5_Data_Processing.py: Processes data set per question 5 in Test Engineer Quiz.pdf"""
+"""Generates piecewise velocity profile based on user input acceleration and jerk limit paramters"""
 
 
 ___author___ = "Kyle Cothern"
@@ -11,4 +11,23 @@ ___version___ = "0.1.0"
 ___maintainer___= ""
 ___email___= "risknc@gmail.com"
 ___status___="Beta"
+
+
+""" Input Parameters """
+
+""" Constants """
+
+""" Variables """
+
+""" Time Step Optimizer """
+
+""" Profile (as a function of time: t) """
+# position
+# velocity
+# acceleration
+# jerk
+
+""" Profile Plotting """
+
+""" Output """
 
